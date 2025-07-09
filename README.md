@@ -1,8 +1,5 @@
 # 🧠 基于 RAG 技术的垂直领域知识问答系统
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Yaaia923/rag-system)](https://github.com/Yaaia923/rag-system)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Yaaia923/rag-system)](https://github.com/Yaaia923/rag-system)
-
 > 一个基于 DeepSeek-R1 和 BGE 模型构建的专业领域知识问答系统，支持中文语义理解和答案溯源
 
 ## ✨ 核心功能
@@ -80,15 +77,12 @@
 python app/main_cli.py
 ```
 
-![CLI 演示](https://via.placeholder.com/600x300?text=CLI+Interface+Screenshot)
-
 #### Web 界面
 ```bash
 python web/gradio_app.py
 ```
 访问 `http://localhost:8899`（默认用户名: admin，密码: password）
 
-![Web 界面演示](https://via.placeholder.com/600x300?text=Web+Interface+Screenshot)
 
 ## 📂 项目结构
 
