@@ -1,0 +1,27 @@
+@"
+# 虚拟环境
+rag-venv/
+
+# 环境变量
+.env
+
+# 证书文件
+*.pem
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.idea/
+.vscode/
+
+# Gradio 缓存
+.gradio/
+
+# 模型文件
+models/
+
+# 向量存储
+vector_store/
+"@ | Out-File -Encoding utf8 .gitignore

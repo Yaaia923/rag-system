@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+gradio
+python-dotenv
+requests
+pypdf
+python-docx
+numpy>=1.23.0
+unstructured
+tiktoken
+pywin32
+markdown
+unstructured[md]
